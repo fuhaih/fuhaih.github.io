@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to fuhaiblog!"
 date:   2023-10-31 22:27:50 +0800
 categories: jekyll update
 ---
